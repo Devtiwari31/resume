@@ -1,4 +1,5 @@
 # resume
 This is my resume.
 <br>
-Author - Dev
+Author - Griffith 
+status - student
